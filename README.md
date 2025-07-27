@@ -11,7 +11,7 @@ This repository contains two Bash scripts designed to assist in the process of *
 ### 1. `scan_starget.sh`
 ### 2. `privilage.sh`
 
-A semi-automated script for initial reconnaissance and enumeration on a target IP. It guides the user through:
+Semi-automated scripts for initial reconnaissance and enumeration on a target IP. It guides the user through:
 - Basic service detection via Nmap
 - Web directory fuzzing with Gobuster and FFUF
 - SSH brute-forcing with Hydra depending on available credentials
