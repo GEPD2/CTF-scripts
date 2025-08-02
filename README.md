@@ -1,3 +1,4 @@
+![Platform](https://img.shields.io/badge/Platform-Linux-lightgrey)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 # Penetration Testing Automation Scripts
 
